@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.grofer"
-        version   = "1.0.0">
+        version   = "3.7.0">
     <name> grofer </name>
 
     <description>
@@ -13,7 +13,7 @@
         Sumedha Softech
     </author>
 	<access origin="*" />
-         <gap:plugin name="com.updatemi.phonegap.inappbrowser" source="pgb" version="0.1.0" />
+         <gap:plugin name="com.updatemi.phonegap.inappbrowser" source="pgb" version="0.1.0"/>
 	<gap:plugin name="com.phonegap.plugins.barcodescanner" />
 	<gap:plugin name="com.phonegap.plugins.pushplugin"  />
         <gap:plugin name="com.adobe.plugins.gaplugin" />
